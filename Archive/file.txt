@@ -1,0 +1,5 @@
+Student-Id	Name		Major			Grade
+1           John        Biology         78
+2           George      Literature      82
+3           Paul        Music           94
+4           Ringo       Music           89 

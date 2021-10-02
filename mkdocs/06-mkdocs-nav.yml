@@ -1,0 +1,11 @@
+###
+### mkdocs-nav.yml
+###
+
+nav:
+  - index.md
+  - Basic Commands: 01-Commands.md
+  - Basic Bash scripting: 02-Scripting.md
+  - Bash Functions: 03-Functions.md
+  - Bash Loops: 04-Loops.md
+  - Vim Cheat Sheet: 05-Vim-Cheat-Sheet.md
